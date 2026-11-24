@@ -7,7 +7,7 @@ description = "Hardware-rooted PCIe SPDM 1.2/1.3 attestation quote and measureme
 license = "MIT"
 repository = "https://github.com/foxhackerzdevs/spdm-attest"
 readme = "README.md"
-keywords = ["spdm", "attestation", "confidential-computing", "tee", "gpu"]
+keywords = ["spdm", "attestation", "confidential", "tee", "gpu"]
 categories = ["cryptography", "command-line-utilities", "hardware-support"]
 
 [lib]
